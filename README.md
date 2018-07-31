@@ -34,7 +34,8 @@
   &emsp;&emsp;<b>2. If you want to use provided details in csv file : </b><br> 
    &emsp;&emsp; &emsp;python3 zomato_ncr.py (zomato cuisine saved csv file path) (zomato restaurant details saved csv file path) <br><br>
    
-   <b> NOTE : </b> <br>
-   &emsp;&emsp; use '/' in the path for windows OS.
+<b> NOTE : </b> <br>
+&emsp;&emsp; 1.Sometimes the fetching script may show error,re run it.<br>
+&emsp;&emsp; 2.use '/' in the path for windows OS.
    
           
